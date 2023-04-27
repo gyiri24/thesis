@@ -10,7 +10,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Thesis">
+        android:theme="@style/Theme.Thesis"
+        android:usesCleartextTraffic="true">
         <activity
             android:name=".QrCodeScannerActivity"
             android:exported="false" />
