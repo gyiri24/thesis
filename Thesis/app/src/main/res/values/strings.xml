@@ -1,9 +1,17 @@
 <resources>
-    <string name="app_name">Thesis</string>
-    <string name="text_hello">Hello World</string>
+    <string name="app_name"> </string>
     <string name="login">Bejelentkezés</string>
     <string name="username">Felhasználónév</string>
     <string name="password">Jelszó</string>
     <string name="registration">Nincs még fiókja? Regisztráljon itt!</string>
-    <string name="about">Rólunk</string>
+    <string name="sign_up">Regisztráció</string>
+    <string name="sport_and_balance">Sport and Balance</string>
+    <string name="email">Email</string>
+    <string name="email_address">Email-cím</string>
+    <string name="jelszo">Jelszó</string>
+    <string name="first_name">Keresztnév</string>
+    <string name="last_name">Vezetéknév</string>
+    <string name="date_of_birth">Születési dátum</string>
+    <string name="accept_terms_and_privacy">Elfogadom a felhasználási feltételeket,\n és az adatvédelmi nyilatkozatot</string>
+    <string name="ok">OK</string>
 </resources>

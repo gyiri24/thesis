@@ -15,30 +15,5 @@ class MainActivity : AppCompatActivity() {
 
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
-        //DRY - Do not Repeat Yourself
-
-        var rand = Random()
-
-        binding.btnTime.setOnClickListener{
-
-            if(binding.etData.text.isNotEmpty()) {
-                var num = rand.nextInt(100)
-
-                var currentTime = "$num ${binding.etData.text.toString()} ${Date(System.currentTimeMillis()).toString()}"
-
-                binding.tvData.text = currentTime
-
-                Toast.makeText(
-                    this,
-                    currentTime,
-                    Toast.LENGTH_LONG,
-                ).show()
-            } else {
-                binding.etData.error = "Ez nem lehet üres"
-            }
-
-        }
-
     }
 }
