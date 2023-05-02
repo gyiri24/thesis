@@ -3,12 +3,17 @@
     <string name="login">Bejelentkezés</string>
     <string name="username">Felhasználónév</string>
     <string name="password">Jelszó</string>
+    <string name="profile_image">Profilkép</string>
     <string name="registration">Nincs még fiókja? <u><b>Regisztráljon itt!</b></u></string>
     <string name="sign_up">Regisztráció</string>
     <string name="sport_and_balance">Sport and Balance</string>
     <string name="email">Email</string>
     <string name="email_address">Email-cím</string>
     <string name="jelszo">Jelszó</string>
+    <string name="profile">Profil</string>
+    <string name="qr_code">QR-kód</string>
+    <string name="ticket">Bérletek</string>
+    <string name="rating">Értékelés</string>
     <string name="first_name">Keresztnév</string>
     <string name="last_name">Vezetéknév</string>
     <string name="date_of_birth">Születési dátum</string>
@@ -28,5 +33,6 @@ A(z) Sport and Balance Kft. fenntartja a jogot, hogy bármikor korlátozza, felf
     <string name="accept_terms_and_privacy">Elfogadom a felhasználási feltételeket,\n és az adatvédelmi nyilatkozatot</string>
     <string name="ok">OK</string>
     <string name="privacy_full_text">Adatvédelmi nyilatkozat\n\nA jelen adatvédelmi nyilatkozat tájékoztatja a felhasználókat arról, hogy az alkalmazás hogyan gyűjti, használja, tárolja és védi a személyes adatokat.\n\n1. Adatgyűjtés\n\nAz alkalmazás a felhasználó által megadott személyes adatokat, mint például a név, e-mail cím és a jelszó gyűjti.\n\n2. Adatok használata\n\nAz alkalmazás a gyűjtött adatokat a felhasználói fiókok kezelésére, a belépési folyamatokra és a szolgáltatás nyújtására használja.\n\n3. Adatok tárolása\n\nA gyűjtött adatokat biztonságos módon tároljuk, és megfelelő intézkedéseket foganatosítunk az adatok jogosulatlan hozzáférésének és elvesztésének megakadályozására.\n\n4. Adatok megosztása\n\nAz alkalmazás nem osztja meg a felhasználók személyes adatait harmadik felekkel, kivéve, ha a felhasználó kifejezetten hozzájárul ehhez, vagy ha erre jogszabályi kötelezettség miatt van szükség.\n\n5. Cookie-k és más technológiák\n\nAz alkalmazás nem használ cookie-kat vagy más nyomkövető technológiákat.\n\n6. Jogok és választások\n\nA felhasználók jogosultak arra, hogy hozzáférjenek a róluk tárolt személyes adatokhoz, kérjék azok helyesbítését vagy törlését, vagy kérjék az adatkezelés korlátozását. A felhasználók jogosultak arra is, hogy bármikor visszavonják a hozzájárulásukat az adatkezeléshez.\n\n7. Kapcsolat\n\nKérdésekkel, észrevételekkel vagy panaszokkal kapcsolatban kérjük, lépjen kapcsolatba az alkalmazás üzemeltetőjével az alábbi e-mail címen: info@example.com</string>
+    <string name="balance_title">Keretösszeg</string>
 
 </resources>

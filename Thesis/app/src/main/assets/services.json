@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Személyi edzés",
+    "price": "6000.00",
+    "duration": 60,
+    "trainer_name": "Gál Bence",
+    "email": "bence.gal@sportandbalance.com"
+  },
+  {
+    "name": "Gyógymasszázs",
+    "price": "4500.00",
+    "duration": 30,
+    "trainer_name": "Müller Júlia",
+    "email": "julia.muller@sportandbalance.com"
+  },
+  {
+    "name": "Tens kezelés",
+    "price": "8000.00",
+    "duration": 15,
+    "trainer_name": "Kiss Zsofia",
+    "email": "zsofia.kiss@sportandbalance.com"
+  },
+  {
+    "name": "Interferencia kezelés",
+    "price": "8000.00",
+    "duration": 20,
+    "trainer_name": "Kiss Zsofia",
+    "email": "zsofia.kiss@sportandbalance.com"
+  },
+  {
+    "name": "Ultrahang kezelés",
+    "price": "8000.00",
+    "duration": 10,
+    "trainer_name": "Kiss Zsofia",
+    "email": "zsofia.kiss@sportandbalance.com"
+  },
+  {
+    "name": "Sportmasszás",
+    "price": "4500.00",
+    "duration": 30,
+    "trainer_name": "Müller Júlia",
+    "email": "julia.muller@sportandbalance.com"
+  }
+]
