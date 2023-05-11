@@ -7,7 +7,7 @@ class QrCodeScannerActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_qr_code_scanner)
+        setContentView(R.layout.fragment_qr_code_scanner)
 
 
 

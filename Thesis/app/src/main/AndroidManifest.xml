@@ -13,11 +13,7 @@
         android:theme="@style/Theme.Thesis"
         android:usesCleartextTraffic="true">
         <activity
-            android:name=".QrCodeScannerActivity"
-            android:exported="false" />
-        <activity android:name=".MainActivity" />
-        <activity
-            android:name=".RegistrationActivity"
+            android:name=".LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

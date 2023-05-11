@@ -2,7 +2,7 @@ package com.example.thesis.data.model
 
 import com.google.gson.annotations.SerializedName
 
-class RatingResult {
+class RatingResponse {
     @SerializedName("id"         ) var id        : String? = null
     @SerializedName("service_id" ) var serviceId : String? = null
     @SerializedName("rating"     ) var rating    : String? = null

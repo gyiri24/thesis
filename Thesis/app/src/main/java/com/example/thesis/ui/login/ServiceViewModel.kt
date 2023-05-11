@@ -1,7 +1,7 @@
 package com.example.thesis.ui.login
 
 import androidx.lifecycle.*
-import com.example.thesis.data.model.Service
+import com.example.thesis.data.model.ServiceResponse
 import com.example.thesis.repository.ServiceRepository
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
@@ -12,8 +12,8 @@ class ServiceViewModel @Inject constructor(
     private val serviceRepository: ServiceRepository
 ) : ViewModel() {
 
-    private val _services = MutableLiveData<List<Service>>()
-    val services: LiveData<List<Service>> = _services
+    private val _services = MutableLiveData<List<ServiceResponse>>()
+    val services: LiveData<List<ServiceResponse>> = _services
 
     private val _loading = MutableLiveData<Boolean>()
     val loading: LiveData<Boolean> = _loading
