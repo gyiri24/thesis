@@ -3,15 +3,15 @@ package com.example.thesis
 import android.os.Bundle
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
-import com.example.thesis.databinding.ActivityRegistrationBinding
+import com.example.thesis.databinding.FragmentRegistrationBinding
 
 class RegistrationActivity : AppCompatActivity() {
 
-    private lateinit var binding: ActivityRegistrationBinding
+    private lateinit var binding: FragmentRegistrationBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = ActivityRegistrationBinding.inflate(layoutInflater)
+        binding = FragmentRegistrationBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
         binding.termsText.setOnClickListener {
